@@ -4,7 +4,7 @@
 
 Must-read Papers on Large Language Model (LLMs) Continual Learning
 
---
+----
 
 1. **Towards Continual Knowledge Learning of Language Models**
 
