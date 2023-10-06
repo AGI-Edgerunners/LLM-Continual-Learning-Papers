@@ -18,3 +18,8 @@ Must-read Papers on Large Language Model (LLMs) Continual Learning
 
    *Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, Bing Liu.* [[abs](https://arxiv.org/abs/2302.03241)]. ICLR 2023.
 
+1. **Continual Pre-Training of Large Language Models: How to (re)warm your model?**
+
+   *Kshitij Gupta, Benjamin Thérien, Adam Ibrahim, Mats L. Richter, Quentin Anthony, Eugene Belilovsky, Irina Rish, Timothée Lesort.* [[abs](https://arxiv.org/abs/2308.04014)]. ICML 2023 Workshop.
+
+
