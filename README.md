@@ -45,3 +45,7 @@ Must-read Papers on Large Language Model (LLM) Continual Learning
 1. **ConPET: Continual Parameter-Efficient Tuning for Large Language Models**
 
    *Chenyang Song, Xu Han, Zheni Zeng, Kuai Li, Chen Chen, Zhiyuan Liu, Maosong Sun, Tao Yang.* [[abs](https://arxiv.org/abs/2309.14763)]. Preprint 2023.09.
+
+1. **TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models**
+
+   *Xiao Wang, Yuansen Zhang, Tianze Chen, Songyang Gao, Senjie Jin, Xianjun Yang, Zhiheng Xi, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2310.06762)]. Preprint 2023.10.
