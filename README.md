@@ -49,3 +49,7 @@ Must-read Papers on Large Language Model (LLM) Continual Learning
 1. **TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models**
 
    *Xiao Wang, Yuansen Zhang, Tianze Chen, Songyang Gao, Senjie Jin, Xianjun Yang, Zhiheng Xi, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2310.06762)]. Preprint 2023.10.
+
+1. **A Study of Continual Learning Under Language Shift**
+
+   *Evangelia Gogoulou, Timothée Lesort, Magnus Boman, Joakim Nivre.* [[abs](https://arxiv.org/abs/2311.01200)]. Preprint 2023.11.
