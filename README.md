@@ -53,3 +53,11 @@ Must-read Papers on Large Language Model (LLM) Continual Learning
 1. **A Study of Continual Learning Under Language Shift**
 
    *Evangelia Gogoulou, Timothée Lesort, Magnus Boman, Joakim Nivre.* [[abs](https://arxiv.org/abs/2311.01200)]. Preprint 2023.11.
+
+1. **Scalable Language Model with Generalized Continual Learning**
+
+   *ICLR 2024 Conference Submission1284 Authors.* [[openreview](https://openreview.net/forum?id=mz8owj4DXu)]. Preprint 2023.
+
+1. **Efficient Continual Pre-training for Building Domain Specific Large Language Models**
+
+   *ICLR 2024 Conference Submission4091 Authors.* [[openreview](https://openreview.net/forum?id=onyGT5Nbuz)]. Preprint 2023.
